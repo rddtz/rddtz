@@ -1,5 +1,5 @@
 ## Opa, tranquilo? 👋
-Sou um estudante de ciência da computação na UFRGS
+- Sou um estudante de ciência da computação na UFRGS
 
 <!--
 **rddtz/rddtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
