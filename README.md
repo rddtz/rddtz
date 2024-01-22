@@ -4,6 +4,9 @@ Caso queira saber algumas coisas sobre mim:
 - Sou bem fã de coisas lógicas no geral
 - Gosto de ler quando sobre tempo
 - Tenho bastante interesse na área de segurança da informação
+```bash
+Caso bater um papo pode chamar por [aqui.](https://www.instagram.com/11001sqrt/)
+```
 
 <!--
 **rddtz/rddtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
