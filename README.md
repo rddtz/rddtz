@@ -1,5 +1,9 @@
 ## Opa, tranquilo? 👋
+Sou fã de tecnologia no geral, e caso queira saber algumas coisas sobre mim:
 - Sou um estudante de ciência da computação na UFRGS
+- Sou bem fã de coisas lógicas no geral
+- Gosto de ler quando sobre tempo
+- Tenho bastante interesse na área de segurança da informação
 
 <!--
 **rddtz/rddtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
