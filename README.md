@@ -1,5 +1,5 @@
 ## Opa, tranquilo? Bem-vindo ao meu simples perfil 👋
-caso queira saber algumas coisas sobre mim:
+Caso queira saber algumas coisas sobre mim:
 - Sou um estudante de ciência da computação na UFRGS
 - Sou bem fã de coisas lógicas no geral
 - Gosto de ler quando sobre tempo
