@@ -1,9 +1,4 @@
-## Opa, tranquilo? Bem-vindo ao meu simples perfil 👋
-Caso queira saber algumas coisas sobre mim:
-- Sou um estudante de ciência da computação na UFRGS
-- Sou bem fã de coisas lógicas no geral
-- Gosto de ler quando sobra tempo
-- Tenho bastante interesse na área de segurança da informação
+## Opa, tranquilo? 👋
 
 Caso bater um papo pode chamar por [aqui.](https://www.instagram.com/11001sqrt/)
 
