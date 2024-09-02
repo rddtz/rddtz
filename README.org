@@ -1,7 +1,11 @@
 #+STARTUP: content
 
-* About me:
+#+begin_src sh :
+  $ whoami
+  > Cumputer Science student at the Institute of Informatics of the Federeal University of Rio Grande do Sul
+  > Likes competitive programming and scripting
 
-- I'm currently a Cumputer Science student at the [[https://www.inf.ufrgs.br/site/][Institute of Informatics]] of the [[http://www.ufrgs.br/ufrgs/inicial][Federeal University of Rio Grande do Sul]]
+#+end_src
 
+- I'm currently a
 - You can contact me via [[mailto:rayan.raddatz@inf.ufrgs.br][e-mail]] or via [[https://www.instagram.com/11001sqrt/][instagram]].
