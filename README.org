@@ -2,10 +2,6 @@
 
 #+begin_src sh :
   $ whoami
-  > Cumputer Science student at the Institute of Informatics of the Federeal University of Rio Grande do Sul
-  > Likes competitive programming and scripting
-
+  > Study: Cumputer Science (CS) at the "Institute of Informatics" of the "Federeal University of Rio Grande do Sul (UFRGS)"
+  > Likes: Competitive programming 
 #+end_src
-
-- I'm currently a
-- You can contact me via [[mailto:rayan.raddatz@inf.ufrgs.br][e-mail]] or via [[https://www.instagram.com/11001sqrt/][instagram]].
