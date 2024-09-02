@@ -1,3 +1,7 @@
 #+STARTUP: content
-#+TITLE: Welcome to my GITHUB profile
 
+* About me:
+
+- I'm currently a Cumputer Science student at the [[https://www.inf.ufrgs.br/site/][Institute of Informatics]] of the [[http://www.ufrgs.br/ufrgs/inicial][Federeal University of Rio Grande do Sul]]
+
+- You can contact me via [[mailto:rayan.raddatz@inf.ufrgs.br][e-mail]] or via [[https://www.instagram.com/11001sqrt/][instagram]].
