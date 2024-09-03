@@ -5,11 +5,13 @@ Welcome to my Github profile, if you want to talk about something you can contac
 
 #+begin_src sh :
   $ whoami
-  Loading [#########################------------------------------]
   > Study: Cumputer Science at the "Institute of Informatics" of the "Federeal University of Rio Grande do Sul" (INF-UFRGS)
   > Likes: Competitive programming, Mathematics and learning at all
+  > Languages: Portuguese and English. (Learning French)
   > Programming Languages: C, C++, Python, Bash, Racket...
-  > Languages: Portuguese and English. (learning French)
-  $
-#+end_src
 
+  $ id
+  > uid=1000(rddtz) gid=1000(rddtz) groups="Parallel and Distributed Processing Group"(GPPD)
+
+  $ 
+#+end_src
