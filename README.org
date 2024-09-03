@@ -5,9 +5,11 @@ Welcome to my Github profile, if you want to talk about something you can contac
 
 #+begin_src sh :
   $ whoami
+  Loading [#########################------------------------------]
   > Study: Cumputer Science at the "Institute of Informatics" of the "Federeal University of Rio Grande do Sul" (INF-UFRGS)
   > Likes: Competitive programming, Mathematics and learning at all
-  > Know Programming Languages: C, C++, Python, Bash, Racket...
-  > Know Languages: Portuguese, English (and trying to learn French)
+  > Programming Languages: C, C++, Python, Bash, Racket...
+  > Languages: Portuguese and English. (learning French)
+  $
 #+end_src
 
