@@ -1,6 +1,8 @@
 #+STARTUP: content
 #+TITLE: About me
 
+Welcome to my Github profile, if you want to talk about something you can contact me via [[mailto:rayan.raddatz@inf.ufrgs.br][e-mail]] or [[https://www.instagram.com/11001sqrt/][instagram]].
+
 #+begin_src sh :
   $ whoami
   > Study: Cumputer Science at the "Institute of Informatics" of the "Federeal University of Rio Grande do Sul" (INF-UFRGS)
@@ -9,4 +11,3 @@
   > Know Languages: Portuguese, English (and trying to learn French)
 #+end_src
 
-You can contact me via [[mailto:rayan.raddatz@inf.ufrgs.br][e-mail]] or [[https://www.instagram.com/11001sqrt/][instagram.]]
