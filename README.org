@@ -10,8 +10,6 @@ Welcome to my Github profile, if you want to talk about something you can contac
   > Languages: Portuguese and English. (Learning French)
   > Programming Languages: C, C++, Python, Bash, Racket...
 
-  $ id
-  > uid=1000(rddtz) gid=1000(rddtz) groups="Parallel and Distributed Processing Group"(GPPD)
-
-  $ 
+  $ id -a
+  > uid=1000(rddtz) groups="Parallel and Distributed Processing Group"(GPPD)
 #+end_src
