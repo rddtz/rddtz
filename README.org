@@ -1,7 +1,7 @@
 #+STARTUP: content
 #+TITLE: About me
 
-**Welcome to my github profile.
+** Welcome to my github profile.
 
 You can contact me via [[mailto:rayan.raddatz@inf.ufrgs.br][e-mail]] or [[https://www.instagram.com/11001sqrt/][instagram.]]
 
