@@ -2,6 +2,8 @@
 
 #+begin_src sh :
   $ whoami
-  > Study: Cumputer Science (CS) at the "Institute of Informatics" of the "Federeal University of Rio Grande do Sul (UFRGS)"
-  > Likes: Competitive programming 
+  > Study: Cumputer Science at the "Institute of Informatics" of the "Federeal University of Rio Grande do Sul" (INF-UFRGS)
+  > Likes: Competitive programming, Mathematics and learning at all
+  > Know Programming Languages: C, C++, Python, Bash, Racket...
+  > Know Languages: Portuguese, English (and trying to learn French)
 #+end_src
