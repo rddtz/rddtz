@@ -5,7 +5,7 @@ Welcome to my Github profile, if you want to talk about something you can contac
 
 #+begin_src sh :
   $ whoami
-  > Study: Cumputer Science at the "Institute of Informatics" of the "Federeal University of Rio Grande do Sul" (INF-UFRGS)
+  > Study: Computer Science at the "Institute of Informatics" of the "Federal University of Rio Grande do Sul" (INF-UFRGS)
   > Likes: Competitive programming, Mathematics, reading and learning at all
   > Languages: Portuguese and English. (Learning French)
   > Programming Languages: C, C++, Python, Bash, Racket...
